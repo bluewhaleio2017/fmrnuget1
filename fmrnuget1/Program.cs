@@ -10,6 +10,7 @@ namespace fmrnuget1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("FMR Nuget1");
         }
     }
 }
